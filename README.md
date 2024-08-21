@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oliver. I'm a former teacher now teaching himslef how to code.
+- 👋 Hi, I’m Oliver. I'm a former teacher now teaching himself how to code.
 - 👀 I’m interested in designing my own educational platforms
 - 📫 How to reach me oliverjennings5@gmail.com
 - 😄 Pronouns: he/him/his
